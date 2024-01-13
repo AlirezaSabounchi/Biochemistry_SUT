@@ -1,0 +1,10 @@
+receptor	= 4i23_Protein_Only.pdbqt
+ligand		= 4i23_Ligand_Only.pdbqt
+
+center_x	= -0.082
+center_y	= -52.527
+center_z	= -21.827
+
+size_x		= 16
+size_y		= 16
+size_z		= 22
